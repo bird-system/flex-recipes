@@ -18,5 +18,6 @@
         "SERVICE_URL_SYSTEM": "http://system",
         "SERVICE_URL_THIRD_PARTY": "http://third-party",
         "SERVICE_URL_WAREHOUSE": "http://warehouse"
-    }
+    },
+    "aliases":["birdsystem-common"]
 }
