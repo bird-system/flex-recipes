@@ -1,0 +1,9 @@
+{
+    "bundles": {
+        "Birdsystem\\UtilityBundle\\BirdsystemUtilityBundle": ["all"]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
+    "aliases":["birdsystem-utility-bundle"]
+}

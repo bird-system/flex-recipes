@@ -3,8 +3,7 @@
         "Birdsystem\\CommonBundle\\BirdsystemCommonBundle": ["all"]
     },
     "copy-from-recipe": {
-        "config/": "%CONFIG_DIR%/",
-        "src/": "%SRC_DIR%/"
+        "config/": "%CONFIG_DIR%/"
     },
     "env": {
         "SERVICE_URL_CLIENT": "http://client/api/",
@@ -19,5 +18,5 @@
         "SERVICE_URL_THIRD_PARTY": "http://third-party/api/",
         "SERVICE_URL_WAREHOUSE": "http://warehouse/api/"
     },
-    "aliases":["birdsystem-common"]
+    "aliases": ["birdsystem-common-bundle"]
 }
